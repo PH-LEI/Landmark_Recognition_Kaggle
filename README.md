@@ -10,4 +10,4 @@ I used different approaches in this project including IBM Watson, Azure and Tens
 
 The detail of this project is in Project_Report.pdf
 
-The code and the experiment process/results are in Pre-trained_Model_Implementation.html and Pre-trained_Model_Implementation.ipynb. I use jupyter notebook during the experiments to track the results.
+For the TensorFlow (on local machine) expreiments: You can find the code and the experiment process/results in Pre-trained_Model_Implementation.html or Pre-trained_Model_Implementation.ipynb. I use jupyter notebook during the experiments to track the results.
