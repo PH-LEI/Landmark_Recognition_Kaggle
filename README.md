@@ -9,3 +9,5 @@ I see landmark recognition as an interesting topic because I planned to build an
 I used different approaches in this project including IBM Watson, Azure and TensorFlow(on local machine) to build classifier.
 
 The detail of this project is in Project_Report.pdf
+
+The code and the experiment process/results are in Pre-trained_Model_Implementation.html and Pre-trained_Model_Implementation.ipynb. I use jupyter notebook during the experiments to track the results.
