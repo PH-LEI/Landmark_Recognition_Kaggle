@@ -6,7 +6,7 @@ I choosed Google Landmark Recognition Challenge because it's a great opportunity
 
 I see landmark recognition as an interesting topic because I planned to build an building recognition app for UW campuses to solve the problem that it's easy for me to get lost in campus trying to find the classroom.
 
-I used different approaches in this project including IBM Watson, Azure and TensorFlow(on local machine) to build classifier.
+I used different approaches in this project including IBM Watson, Azure and TensorFlow(Python) on local machine to build classifier.
 
 The detail of this project is in Project_Report.pdf
 
